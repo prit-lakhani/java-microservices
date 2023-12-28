@@ -16,6 +16,7 @@
     <description>microservices</description>
     <modules>
         <module>product-service</module>
+        <module>order-service</module>
     </modules>
 
     <properties>
